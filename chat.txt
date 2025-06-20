@@ -1,0 +1,267 @@
+Eu quero fazer um site bem inovador pra quem quer se divertir online ( se é que você me entende, e presencialmente também), a idéia é de:
+
+O cliente (usuário), ele entre numa página home, que vai ter tudo de atrativo e chamariz, vai ter informações de 2 garotas acompanhantes famosas, e 2 garotas de onlyfans sabe? Só pra chamar atenção.
+
+e aí no meio do site vai ter: "Escolher Acompanhantes em seu local" e "Escolher garotas(os) que vendem conteúdo por assinatura", um embaixo do outro.
+
+Logo, quero que ele vá pra outra página dependendo da situação, se ele clicar em Escolher Acompanhantes em seu local", o servidor vai fazer uma requisição ao usuário pedindo pra ter acesso à localização. 
+
+
+Se for acompanhantes:
+
+Vai ter um filtro de busca para acompanhantes, tipo:
+
+- Cidade, raio de localização em quilômetros
+- O que você procura "Palavras que podem ter nas descrições dos anúncios"
+- Lista de cidades para selecionar
+- Um botão de "Me localize" pra pedir também permissão de localização
+
+ai vamos lá, a parte mais importante:
+
+
+Principais:
+- Preço minimo e máximo para procurar acompanhante
+- Opções de pagamento que ela aceita (Cartão de Crédito, Débito, Pix, Luxo, ou Economicas.
+- Idade mínima e máxima
+Se são maduras ou mulheres mais novas.
+
+Atendimento à:
+- Homens, Mulheres, Casais e Deficientes Físicos.
+Contato
+- Ligação, WhatsApp ou Telegram.
+
+Serviços Gerais:
+- Beijos na boca
+- Ejac no corpo
+- Facial
+- Fantasias e disfarces
+- Massagem ero
+- Namoradinha
+- Oral com proteção
+- Oral sem proteção
+- PSE
+- Bumbum
+
+Serviços Especiais:
+
+- Beijo Black
+- Chuva Gold
+- Fetichism
+- Garganta Prof
+- Sado Duro
+- Sado Suave
+- Squirtle
+- Strapon
+
+Conteudo:
+
+-Se são fotos verificadas pelos funcionários
+- Se tem rosto visível
+- Com vídeo
+- Com TD positivo
+- Com áudio
+
+
+Aparencia:
+Etnia:
+- Brancas
+- Latinas
+- Mulatas
+- Negras
+- Orientais
+
+cabelo:
+-Morenas
+- Loiras
+- Ruivas
+- Colorido
+
+estatura:
+- Altas
+- Pequenas
+
+corpo:
+-gordinhas
+-magras
+- academia
+
+seios:
+- Peitudas
+- Seios Naturais
+
+pubis
+- Peludas
+- Depiladas
+
+- Se é fumante
+- Se tem piercings
+e preferencia sexual
+
+
+
+
+
+Lugares:
+- Domicilio
+- Clubes
+- Com local
+- Despedida de Solteiro
+- Festas
+- Hotel
+- Jantar romantico
+- Viagens
+ 
+
+- Comentários de usuários e avaliacões
+
+Queremos um modal, da acompanhante, com tudo isso que vai vir do banco de dados, por conta depois da criação da acompanhante e criar um anúncio, onde ela vai registrar tudo isso.
+
+- Aparecer vários quadradinhos, de várias acompanhantes que se registraram no site, se o site puxou do usuário "São Paulo - SP" vai puxar acompanhantes de são paulo, entendeu? Ai vai ter informações tipo:
+
+Em um dos quadrados por exemplo:
+Encima: Foto da Galeria (Principal)
+Embaixo: "Anna Isabelle - 13 (99999-9999), sou dominadora e faço massagem relaxante" e no canto do quadrado vai aparecer de 1 à 5 estrelas.
+e as categorias que ela representa sabe?
+
+e de onde ela é embaixo, por exemplo São Paulo ( com um emoji de localização)
+e se ela estiver online na ultima hora, vai aparecer lá encima que ela está online, bem focado.
+
+ai clicando, aparece um modal no browser com todas informações daquela acompanhante que tá  registrada. todo organizado e lindo.
+
+ai aparece varias acompanhantes daquela regiao pro usuario.
+
+
+----------------------------------------------------------------------------------------
+
+Se for onlyfans, vai ter a mesma coisa que a acompanhante, só que a vantagem é que as pessoas vao assinar o perfil da onlyfans para poderem ter acesso à mensageria com ela e com a galeria dela que vai poder ser compartilhada com os usuários.
+
+Você vai ter uma ideia de como vou poder fazer a parte da onlyfans, então, quero que o usuário possa assinar a assinatura da onlyfans!
+vão ter todos os tipos de plano que ela vai estipular o valor.
+ai o cara vai poder depois de registrado e assinado, vai poder comentar em posts, mandar mensagem, e poder ver a galeria privada por garota onlyfans.
+
+--------------------------------------------------------------------------------------------
+
+Lá na home
+
+vai aparecer no canto pra se registrar, ai vai levar pra uma escolha de 3 opções 
+"Usuário", "Acompahante", "Conteúdo Pago"
+
+ai vai pra registrar, usuário normal, vai pedir
+
+email
+senha
+confirmacao de senha
+nickname que ele vai usar 
+
+e ai vai poder aproveitar todo o site.
+
+Se escolher acompanhanet, vai pedir pra registrar:
+
+email
+senha
+senha
+confirmacaodesenha
+nickname
+
+
+so que ai qndo ela for enviar o formulario, vai perguntar se ela quer ser verfificada (ai vai aparecer um botao que sim, e que pra ela vai ser gerado um código, para ela tirar a foto de corpo do lado de uma folha ou celular dizendo o codigo que vai ser gerado pelo sistema, ai vai enviar para minha dashboard de admin, lá eu irei receber essas coisas, o numero do id da acompanhante, e vou receber a foto com tudo dela preenchido, ai, vou aprovar se ela pode se registrar ou nao, isso se repete pra garota onlyfans)
+
+----------------------------------------------
+
+garota onlyfans, mesmo esquema.
+
+
+1. Sistema de Perfis Avançado
+Perfil personalizável (foto, banner, bio)
+
+Verificação de identidade (fotos com documento + selfie)
+
+Categorias/Tags (ex: cosplay, fitness, dominação)
+
+Sistema de avaliações (⭐ 1-5 estrelas + comentários)
+
+Badges de status (Online, Novo, Verificado)
+
+2. Gestão de Conteúdo
+Postagem em diferentes formatos:
+
+Fotos
+
+Vídeos (curtos e longos)
+
+Áudios (mensagens personalizadas)
+
+Textos (blog, histórias)
+
+Conteúdo gratuito vs. pago
+
+Agendamento de publicações
+
+Pastas/Coleções organizadas (ex: "Fotos de praia", "Conteúdo exclusivo")
+
+3. Monetização Simples
+Assinaturas mensais (valores personalizáveis por criador)
+
+Pay-per-view (conteúdo individual)
+
+Sistema de gorjetas (tips) com mensagens personalizadas
+
+Venda de conteúdo digital (fotosets, vídeos exclusivos)
+
+Meta de gorjetas com recompensas especiais
+
+4. Interação com Fãs
+Mensagens diretas (DM)
+
+Chat ao vivo (público e privado)
+
+Enquetes e questionários
+
+Solicitações personalizadas (com orçamento)
+
+Lives exclusivas (assinantes/VIP)
+
+5. Ferramentas para Criadores
+Dashboard de desempenho (visualizações, ganhos, seguidores)
+
+Análise de público (localização, horários de pico)
+
+Ferramenta de promoção (descontos, trials)
+
+Sistema de bloqueio (usuários indesejados)
+
+Notificações personalizáveis
+
+6. Busca e Descobrimento
+Filtros avançados:
+
+Por localização
+
+Por preço
+
+Por tipo de conteúdo
+
+Por etnia/corpo
+
+Página de explorar (em alta, novos criadores)
+
+Sistema de recomendações personalizadas
+
+Listas de favoritos
+
+
+-----------------------------------------------
+
+
+Na minha aba de dashboard admin terá que ter algumas coisas:
+
+Vai aparecer pra mim a lista de todos os usuários, acomapnhantes e onlyfans, poderei mexer em tudo
+quero o crud de tudo e todos.
+tera a aba também de aprovacao, que vai ter pra cada tipo de usuário (menos usuario normal)
+se irei aprovar ou recusar, irei recedber o codigo q o sistema deu pra pessoa pra confirmar.
+quero poder mexer em todos comentarios de posts, mexer em tudo.
+
+
+Quero fazer um site realmente funcional, vc vai me ajudando no caminho, podemos ir lá?
+ 
+
